@@ -1,4 +1,9 @@
 # Real-Time-Object-Detection-
+
+### Introduction
+Object Detection is a technique that allows us to identify and locate objects in an image or video .
+Object detection draws bounding boxes around these detected objects , which allows to locate where said objects are in a given scene.
+
 ### Requirements
 <li>Visual Studio</li>
 <li>Create virtual environment</li>
