@@ -3,7 +3,8 @@
 <li>Visual Studio</li>
 <li>Create virtual environment</li>
 <li>Python 3.7 or more </li>
-### Libraries_used
+
+### Libraries used
 <li>face_recognition</li>
 <li>OpenCV</li>
 <li>NumPy</li>
